@@ -60,4 +60,4 @@ Using 0-based indexing, if we make
 -> at a cost of 
 -> at a cost of 
 -> at a cost of ,
-then the total cost will be .
+then the total cost will be ?
